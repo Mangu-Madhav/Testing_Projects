@@ -134,7 +134,3 @@ driver.quit();
 * Follow the Page Object Model (POM) design pattern.
 
 ---
-
-# Author
-
-Developed using Java, Selenium WebDriver, and TestNG for learning and automation practice.
